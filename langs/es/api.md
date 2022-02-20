@@ -24,7 +24,7 @@ El setter actualiza la señal. Como único argumento, toma el nuevo valor de la 
 ```js
 const [getValor, setValor] = createSignal(valorInicial);
 
-// leet el valor
+// leer el valor
 getValor();
 
 // asignar el valor
